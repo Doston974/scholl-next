@@ -18,7 +18,7 @@ const workSans = Work_Sans({
 export const metadata: Metadata = {
 	title: 'Bilim maskani',
 	description:
-		'Dasturlash haqida yangiliklar, maslahatlar, va dasturlash sohasidagi eng soʻnggi xabarlar. Bizning blogda dasturlashni oʻrganish va rivojlantirish uchun qoʻllanma topishingiz mumkin.',
+		"Bizning bilim dargohimizda sizning farzandingiz kelajagi uchun zarur bo'lgan bilimi, ko'nikmali, malakali va albatta jamiyatimiz uchun yetuk shaxs bo'lib yetishib chiqishiga biz kafolot beramiz va bu yo'ldagi har qanday to'siqlarni birgalikda yengib o'tishga yordam beramiz. Biz bilan farzandingiz kelajagini quring.",
 }
 
 function RootLayout({ children }: ChildProps) {

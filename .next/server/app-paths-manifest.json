@@ -1,6 +1,7 @@
 {
-  "/(root)/(home)/page": "app/(root)/(home)/page.js",
+  "/not-found": "app/not-found.js",
   "/(root)/about/page": "app/(root)/about/page.js",
+  "/(root)/(home)/page": "app/(root)/(home)/page.js",
   "/(root)/blogs/page": "app/(root)/blogs/page.js",
   "/(root)/blogs/archive/page": "app/(root)/blogs/archive/page.js",
   "/(root)/contact/page": "app/(root)/contact/page.js"
